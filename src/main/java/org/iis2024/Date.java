@@ -29,6 +29,10 @@ public class Date {
     return day;
   }
 
+  public void methodAddedbyAuthor(){
+    System.out.println("mehtod by author");
+  }
+
   /**
    * Retrieves the month component of this date.
    *
